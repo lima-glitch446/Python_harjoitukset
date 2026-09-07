@@ -2,7 +2,6 @@ leiviskat = float(input("Anna leiviskät: "))
 naulat = float(input("Anna naulat: "))
 luodit = float(input("Anna luodit: "))
 
-# Muutetaan kaikki luodeiksi
 luodit_yht = leiviskat * 20 * 32 + naulat * 32 + luodit
 
 grammat = luodit_yht * 13.3
