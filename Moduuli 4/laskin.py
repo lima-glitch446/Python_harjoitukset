@@ -1,4 +1,0 @@
-print("-------------TERVETULOA LASKINOHJELMAAN-------")
-
-
-
