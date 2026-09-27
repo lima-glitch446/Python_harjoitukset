@@ -7,5 +7,5 @@ while luku != ""
 
     Luku = input("Anna luku (tyhjä lopettaa): ")
 
-print("Pienin:", min(luvut))
-print("Suurin:", max(luvut))
+print("Pienin:", (luvut))
+print("Suurin:", (luvut))
